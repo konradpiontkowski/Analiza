@@ -2,7 +2,7 @@ import pathlib
 from setuptools import setup, find_packages
 
 setup(
-    name="Analiza",
+    name="Analiza_pilka",
     version="0.1.0",
     packages=find_packages(),
     install_requires=[
